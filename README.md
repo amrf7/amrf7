@@ -20,20 +20,21 @@ I'm a last year Mechatronics Engineering student 🦾 From Universidad de las Am
 
 ## My github stats
 
-<a align="center">
-<img align="center" width=50% alt="Ana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amrf7&show_icons=true&theme=material-palenight" />
-<img align="center" alt="Top Langs" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrf7&layout=compact&theme=material-palenight" />
+<p align="center">
+<img width=48% alt="Ana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amrf7&show_icons=true&theme=material-palenight" /> <img alt="Top Langs" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrf7&layout=compact&theme=material-palenight" />
 
-</a>
+</p>
 
 <br />
 
 ### Connect with me: 
+<div align="center">
 
 <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mail-DB4437?style=flat-square&logo=gmail&logoColor=white&link=e-mailto:ana.ruizfz@udlap.mx"/>                   
+</div>
 
 <br />
 
