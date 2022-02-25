@@ -21,8 +21,8 @@ I'm a last year Mechatronics Engineering student 🦾 From Universidad de las Am
 ## My github stats
 
 <a align="center">
-<img align="center" alt="Ana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amrf7&show_icons=true&theme=material-palenight" />
-<img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrf7&layout=compact&theme=material-palenight" />
+<img align="center" width=50% alt="Ana's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=amrf7&show_icons=true&theme=material-palenight" />
+<img align="center" alt="Top Langs" width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrf7&layout=compact&theme=material-palenight" />
 
 </a>
 
