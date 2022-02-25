@@ -25,10 +25,22 @@
 <br />
 <h2 align="center"> Let's connect 👋 </h2>
 <div align="center">
-<img src="https://img.shields.io/badge/Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mail-DB4437?style=flat-square&logo=gmail&logoColor=white&link=e-mailto:ana.ruizfz@udlap.mx"/>                   
+
+<p align="center">
+    <a href="mailto: ana.ruizfz@udlap.mx">
+        <img src="https://img.shields.io/badge/Mail-DB4437?style=flat-square&logo=gmail&logoColor=white&link=e-mailto:ana.ruizfz@udlap.mx"/> 
+    </a>
+    <a href="https://www.linkedin.com/in/anamariaruifer/">
+        <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/anamariaruifer/"/>
+    </a>
+    <a href="https://open.spotify.com/user/12130057102?si=653d550ed0be41ab">
+        <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/12130057102?si=653d550ed0be41ab"/>
+    </a>
+    <a href="https://www.instagram.com/goaway_ana/">
+        <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/goaway_ana/"/>
+    </a>
+</p>
+
 </div>
 
 <br />
